@@ -1,0 +1,8 @@
+.btn-farve {
+    background-color: coral;
+    border-color: coral;
+}
+
+.btn:hover {
+    background-color: rgb(233, 97, 48);
+}
